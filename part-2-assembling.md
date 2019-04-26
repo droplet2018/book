@@ -30,7 +30,7 @@
 
  The sensor must be assembled in front of the printinghead, either left or right. The exact position depends on the flowing direction of product. When the sensor detects the product, it starts counting the time and will start printing when reaching the delay time. Pls be sure a certain distance between products, or the sensor can not detect the printed products smoothly. Please refer to following pictures.
 
->![](/assets/1.png)
+![](/assets/1.png)
 
 
 4. The relative position of printinghead and ink cartridge
@@ -41,9 +41,9 @@
 
    n.  When assembling printinghead, the distance between the bottom of printinghead and bottom of machine should be 30mm\~50mm. If it's higher than 50mm, the spray head will not begin printing. If it's lower than 30mm,the ink will leak. Please refer to following picture.
 
-> ![](/assets/2.png)
->
-> Base of Machine
+ ![](/assets/2.png)
+
+  Base of Machine
 
 5. Checking after assembling finished
 
