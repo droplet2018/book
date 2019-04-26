@@ -27,12 +27,12 @@
    k.  If you replace the ink cartridge when the machine is working, pls quick (several seconds are ok), or the air easy to be absorbed into ink system. If the air absorbed in by accident, pls squeeze the ink cartridge to make sure the air pulled out.
 >
 3. Sensor assembling
->
-> The sensor must be assembled in front of the printinghead, either left or right. The exact position depends on the flowing direction of product. When the sensor detects the product, it starts counting the time and will start printing when reaching the delay time. Pls be sure a certain distance between products, or the sensor can not detect the printed products smoothly. Please refer to following pictures.
->
+
+The sensor must be assembled in front of the printinghead, either left or right. The exact position depends on the flowing direction of product. When the sensor detects the product, it starts counting the time and will start printing when reaching the delay time. Pls be sure a certain distance between products, or the sensor can not detect the printed products smoothly. Please refer to following pictures.
+
 >![](/assets/1.png)
 ---
->
+
 
 4. The relative position of printinghead and ink cartridge
 
