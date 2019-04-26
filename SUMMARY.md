@@ -1,6 +1,5 @@
 # Summary
 * [D1 Operational Instructions](README.md)
-  
    * [Foreword](foreword.md)
    * [PART 1 ATTENTIONS](1.md)
    * [PART 2 Assembling](part-2-assembling.md)
