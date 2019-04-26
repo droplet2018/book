@@ -41,9 +41,9 @@
 
    n.  When assembling printinghead, the distance between the bottom of printinghead and bottom of machine should be 30mm\~50mm. If it's higher than 50mm, the spray head will not begin printing. If it's lower than 30mm,the ink will leak. Please refer to following picture.
 
- ![](/assets/2.png)
+![](/assets/2.png)
 
-  Base of Machine
+  ## Base of Machine
 
 5. Checking after assembling finished
 
@@ -69,4 +69,4 @@
 
  w.  If you remove the ink cartridge, please refer to instruction of **Part 8 Maintenance**
 
- to clean the inking system.
+ **to clean the inking system.**
