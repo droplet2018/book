@@ -2,7 +2,7 @@
 
 Distinguished Customer:
 
-Thanks for your selection of Droplet. We are sure this printer can print high-quality & high-efficient inkjet printing effect with its outstanding performance.
+Thank you for choosing our Droplet. We believe that this inkjet machine has excellent performance and can help you quickly print high quality results.
 
 Regards, 
 
@@ -12,6 +12,12 @@ Droplet
 
 
 ![](/assets/Image_001.jpg)
+
+
+
+
+
+
 
 
 
