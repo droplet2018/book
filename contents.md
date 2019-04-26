@@ -1,61 +1,27 @@
-+-------------------------------------------------------+---------------------------------------+
-| > THANKS FOR SELECTION OF                             | > P1                                  |
-+=======================================================+=======================================+
-| > CONTENTS INDEX                                      | > P2                                  |
-+-------------------------------------------------------+---------------------------------------+
-| > **PART 1 ATTENTIONS & TECHNICAL PARAMETERS**        | > P3-P4                               |
-+-------------------------------------------------------+---------------------------------------+
-| > **PART 2 INSTALLATION**                             | > P5                                  |
-|                                                       | >                                     |
-| 1.  Environment & Location                            | > P5-P6 P6                            |
-|                                                       | >                                     |
-| 2.  Ink cartridge installation                        | > P6-P7 P7                            |
-|                                                       | >                                     |
-| 3.  Sensor installation                               | > P8                                  |
-|                                                       |                                       |
-| 4.  Relative position of printinghead & ink cartridge |                                       |
-|                                                       |                                       |
-| 5.  Checking after Assembly                           |                                       |
-|                                                       |                                       |
-| 6.  Packing requirements for shipment                 |                                       |
-+-------------------------------------------------------+---------------------------------------+
-| > **PART 3 Keyboard Introducing**                     | > P8-P9                               |
-+-------------------------------------------------------+---------------------------------------+
-| > **PART 4 Operation System**                         | > P10-P22 P10-P11 P12-P16 P17-P18 P19 |
-|                                                       | >                                     |
-| 1.  Starting-up                                       | > P20-P21 P21-P22 P23-P24 P24         |
-|                                                       |                                       |
-| 2.  Main Menu introducing                             |                                       |
-|                                                       |                                       |
-| 3.  Editing printing Message                          |                                       |
-|                                                       |                                       |
-| 4.  Printing Parameters Settings                      |                                       |
-|                                                       |                                       |
-| 5.  Clock Settings                                    |                                       |
-|                                                       |                                       |
-| 6.  Variable Settings                                 |                                       |
-|                                                       |                                       |
-| 7.  Start Printing                                    |                                       |
-|                                                       |                                       |
-| 8.  Advance Settings                                  |                                       |
-|                                                       |                                       |
-| 9.  About the machine                                 |                                       |
-+-------------------------------------------------------+---------------------------------------+
-| > **PART 5 SOFTWARE OPERATION**                       | > P23-P34 P23-P27                     |
-| >                                                     |                                       |
-| > 5.1 Installation of software                        |                                       |
-+-------------------------------------------------------+---------------------------------------+
+Thanks for selecting Inkjet High-Resolution Printer . It is a high resolution ink jet printer used for printing text, symbols etc. The printing band is 1mm -18mm. The printing speed is up to 35 Meters per minute. Please read following instructions for detailed operations and maintenances.
 
-+--------------------------------------------------------+-----------+
-| > 5.2 Downloading character fonts & pictures           | > P28-P32 |
-+========================================================+===========+
-| > **PART 6 PRINTINGHEAD CLEANING & PRINTING POSITION** | > P33-P34 |
-+--------------------------------------------------------+-----------+
-| > **PART 7 INK SELECTION**                             | > P34-35  |
-+--------------------------------------------------------+-----------+
-| > **PART 8 MAINTENANCES**                              | > P35-P36 |
-+--------------------------------------------------------+-----------+
-| > **PART 9 FAQ**                                       | > P36-P39 |
-+--------------------------------------------------------+-----------+
-| > **ACCESSORIES**                                      | > P40     |
-+--------------------------------------------------------+-----------+
+## IMPORTANT NOTES
+
+> ★ TO ASSURE THE BEST PRINTING EFFECT AND THE MACHINE KEEP THE BEST PERFORMANCES, PLS MAKE SURE USING THE DESIGNATED INK AND CLEANING SOLVENT BY . POOR
+>
+> PRINTING QUALITY OR MACHINE DAMAGED RESULTED FROM NON-DESIGNATED INK OR CLEANING SOLVENT WILL BE OUT OF WARRANTY.
+>
+> ★ NEVER TOUCH OR CLEAN THE NOZZLES WITH ANY MATERIALS, ONLY COULD USE DESIGNATED CLEANING SOLVENT TO CLEAR THE NOZZLES, OR THE PRINTINGHEAD WILL BE DAMAGED. AND PLS BE SURE SQUEEZE THE INK CARTRIDGE TILL THE INK FLOWING OUT FROM NOZZLES SMOOTHLY AFTER YOU SPRAYING CLEANING SOLVENT TO THE NOZZLES, OR THE PRINTINGHEAD WILL BE DAMAGED FOREVER.
+>
+> ★ NEVER LEAVE THE MACHINE WITHOUT THE INK CARTRIDGE PUT ON. OR THE INK SYSTEM MAY WILL BE POLLUTED. NEVER PUT YOUR FINGERS INTO THE INK SLOT, OR YOUR FINGERS WILL BE INJUR BY THE SHARP NEEDLE AT THE SLOT.
+>
+> ★ PLS BE SURE SPRAY THE CLEANING SOLVENT TO THE NOZZLES FOR 3 TO 5 TIMES BEFORE SQUEEZING THE INK CARTRIDGE.
+>
+> ★ WHEN YOU NEED STOPING TO USE MACHINE, PLS TURN POWER DOWN. THEN PUT THE PROTECTING CAP ON DIRECTLY. PLS DO NOT SPRAY THE CLEANING SOLVENT TO THE NOZZLES FOREVER, OR THE NOZZLES WILL BE BLOCKED.
+>
+> ★ PLS DO NOT USE MIXED INK WITH DIFFERENT INKS MIXED, EVEN IF THESE INKS SUPPLIED BY , OR IT WILL DAMAGE THE INK SYSTEM BADLY AND WILL BE OUT OF WARRANTY.
+>
+> ★ INKS AND CLEANING SOLVENT ARE BELONG TO INFLAMMABLE SUBSTANCE, PLS BE SURE THE MACHINE KEEP AWAY FROM FIRE SOURCES.
+>
+> ★ PLS BE SURE CUT POWER DOWN WHEN YOU TAKE THE MACHINE APART TO AVOID GETTING AN ELECTRIC SHOCK.
+>
+> ★ PLS DO NOT LOOK AT THE NOZZLES WHEN THE MACHINE IS WORKING TO AVOID THE INK SPLASH INTO YOUR EYES, IF INK SPLASHED INTO YOU EYES BY ACCIDENT, PLS WASH IT BY WATER IMMEDIATELY AND THEN SEE A DOCTOR.
+>
+> ★ PLS DO NOT INSERT OR PULL OUT THE PLUG WHEN THE MACHINE IS WORKING, OR THE MAINBOARD WILL BE BURNED OUT
+>
+> ★ WE WILL PROVIDE FURTHER DETAILED EXPLANATION IN RELATIVE CHAPTERS.
