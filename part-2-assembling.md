@@ -15,17 +15,15 @@
    g.  Inkjet printer must be assembled horizontally without any lean front or lean back, or ink will leak or can not print out.
 
    h.  The rated voltage for Inkjet Printer is 110V-220V/50-60H
->
+
 
 2. Ink cartridge assembling
->
-
-   i.  The ink supply is ink cartridge. It's easy and simple to replace ink cartridge.
+i.  The ink supply is ink cartridge. It's easy and simple to replace ink cartridge.
 
    j.  To replace the ink cartridge, please press down the clip and take out the old cartridge. And put on new one, If it is hard to insert, please check and make sure the side with hole is downward.
 
    k.  If you replace the ink cartridge when the machine is working, pls quick (several seconds are ok), or the air easy to be absorbed into ink system. If the air absorbed in by accident, pls squeeze the ink cartridge to make sure the air pulled out.
->
+
 3. Sensor assembling
 
  The sensor must be assembled in front of the printinghead, either left or right. The exact position depends on the flowing direction of product. When the sensor detects the product, it starts counting the time and will start printing when reaching the delay time. Pls be sure a certain distance between products, or the sensor can not detect the printed products smoothly. Please refer to following pictures.
@@ -47,7 +45,7 @@
 
 5. Checking after assembling finished
 
-   o.  Check whether the ink cartridge is already put on.
+   o.  Check whether the ink cartridge is already put on.   
 
    p.  Check whether turn power on.
 
@@ -55,7 +53,7 @@
 
    r.  Enter a message as described in the Message Editting Section.
 
-   s.  Click the  **P** button to activate the printing function.
+   s.  Click the  **P** button to activate the printing function. 
 
 6. Packing requirements of shipment.
 
