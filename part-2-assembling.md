@@ -30,7 +30,7 @@
 >
 > The sensor must be assembled in front of the printinghead, either left or right. The exact position depends on the flowing direction of product. When the sensor detects the product, it starts counting the time and will start printing when reaching the delay time. Pls be sure a certain distance between products, or the sensor can not detect the printed products smoothly. Please refer to following pictures.
 >
->![](/assets/Image2.jpg)
+>![](/assets/Image2.jpg)1
 > 
 >
 
