@@ -53,20 +53,20 @@
 
    q.  Check whether the printinghead is cleaned and squeeze the ink cartridge
 
-   r.  Enter a message as described in the [Message Editting Section.]{.underline}
+   r.  Enter a message as described in the Message Editting Section.
 
    s.  Click the  **P** button to activate the printing function.
 
 6. Packing requirements of shipment.
 
-> Pls be sure packing the machine according to following steps, when you need to ship machine,
+   Pls be sure packing the machine according to following steps, when you need to ship machine,
 
-t.  When the ink cartridge stay in the machine, please always keep the position of printinghead is higher than the position of the ink cartridge, or the ink will be flowed out from printinghead.
+ t.  When the ink cartridge stay in the machine, please always keep the position of printinghead is higher than the position of the ink cartridge, or the ink will be flowed out from printinghead.
 
-u.  Pls be sure the protecting film don't touch the nozzles, when you put the protecting film on the printinghead, so that assuring the printinghead will not be polluted or damaged
+ u.  Pls be sure the protecting film don't touch the nozzles, when you put the protecting film on the printinghead, so that assuring the printinghead will not be polluted or damaged
 
-v.  Please ensure the printinghead isn't damaged by any possible accident during transportation, because it's very delicate and easily damaged.
+ v.  Please ensure the printinghead isn't damaged by any possible accident during transportation, because it's very delicate and easily damaged.
 
-w.  If you remove the ink cartridge, please refer to instruction of **Part 8 Maintenance**
+ w.  If you remove the ink cartridge, please refer to instruction of **Part 8 Maintenance**
 
-> to clean the inking system.
+ to clean the inking system.
