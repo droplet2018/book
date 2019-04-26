@@ -1,4 +1,4 @@
-****Thanks for selecting Inkjet High-Resolution Printer . It is a high resolution ink jet printer used for printing text, symbols etc. The printing band is 1mm -18mm. The printing speed is up to 35 Meters per minute. Please read following instructions for detailed operations and maintenances.
+Thanks for selecting Inkjet High-Resolution Printer . It is a high resolution ink jet printer used for printing text, symbols etc. The printing band is 1mm -18mm. The printing speed is up to 35 Meters per minute. Please read following instructions for detailed operations and maintenances.
 
 ## IMPORTANT NOTES
 
