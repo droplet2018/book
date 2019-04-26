@@ -55,7 +55,7 @@
 
    r.  Enter a message as described in the [Message Editting Section.]{.underline}
 
-   s.  Click the ![](media/image5.png){width="0.22847112860892388in" height="0.20347112860892388in"} to activate the printing function.
+   s.  Click the  **P** button to activate the printing function.
 
 6. Packing requirements of shipment.
 
