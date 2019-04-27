@@ -8,7 +8,7 @@ Regards
 
 Customer Team
 
-[Droplet](/jack@xdmro.com "Email address")
+Droplet
 
 
 ![](/assets/7.jpg)
