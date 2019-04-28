@@ -1,4 +1,4 @@
-### 4.1. Starting-up
+## 4.1. Starting-up
 
 Connecting AC cable, turning power on, then screen display as following,
 
@@ -10,7 +10,7 @@ Above fig. is ink recognizing interface, insert the ink recognizer into USB conn
 
 Press key  **Y** to confirm using new ink catridge
 
-# 4.2. Interfaof Main Menuce
+## 4.2. Interfaof Main Menuce
 
 a.Please check whether the power is connected properly, Then turn power on. After the quick initialization, you will see a window pls refer to following picture. You can choose the file No. and press **P**  to enter into the printing status window. Or enter the file number, then press  **E**  to start editing/inputting the message.
 
