@@ -10,7 +10,6 @@ Customer Team
 
 Droplet
 
-
 ![](/assets/7.jpg)
 
 
