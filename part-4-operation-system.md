@@ -30,3 +30,11 @@ and the cursor will move to the next digit automatically. For example, File No. 
 Following are detailed explanation on the individual buttons.
 
 ## 4.3 Message Input.
+Under the Main Manu, please enter the File No., then press “E” button to start editing/input message. Pls refer to following picture:
+
+![](/assets/Image_035.jpg)
+
+a.Inputting the Chinese characters
+◆Entering the Editing&inputting menu, refer to following picture, please press ![](/assets/Image_026.png)       (Chinese/English/Picture/Variables) to shift to the Chinese. Press ![](/assets/Image_027.png) button to set up height of character. X is the horizontal location of cursor, Y is the vertical location
+of cursor.
+
