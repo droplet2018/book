@@ -2,11 +2,15 @@
 
 Connecting AC cable, turning power on, then screen display as following,
 
+
 ![](/assets/Image_029.jpg)
+
 
 Above fig. is ink recognizing interface, insert the ink recognizer into USB connector (one recognizer one ink cartridge, when changing the ink cartridge, meanwhile need changing recognizer), then screen display as following,
 
+
 ![](/assets/Image_030.jpg)
+
 
 Press key  **Y** to confirm using new ink catridge
 
