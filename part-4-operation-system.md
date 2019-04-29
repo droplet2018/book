@@ -49,11 +49,21 @@ ATTENTION：This machine can display maximum 10 Chinese characters on 1 page, if
 page, or press   to move to the previous page. Or you also can press   to turn to next or previous page.
 
 b.Inputting the English letters, numbers and pictures
-◆Similar to the above operation method,  For Example, enter the  “Production Date” press  to shift to “ English” mode. Press    to select the height of characters,  then input “Production Date”. Note:   Press ’Caps’ to shift Capital or Small letter
+◆Similar to the above operation method,  For Example, enter the  “Production Date” press![](/assets/Image_026.png)  to shift to “ English” mode. Press  ![](/assets/Image_027.png)  to select the height of characters,  then input “Production Date”. Note:   Press ’Caps’ to shift Capital or Small letter
 ◆The keyboard of the machine is same as the keyboard of computers. If you want  to
-input the “：”, you need to press    and meanwhile press ,
+input the “：”, you need to press ![](/assets/Image_044.jpg)   and meanwhile press![](/assets/Image_045.jpg) ,
 c.Input the pictures
-◆Similar to the PingYing Input & English Input, you can enter “Production Date” 2006/01/30 &  “Expiration  Date” 2007/01/30”.  Then press	to  shift  to “Picture”
-mode. 。
+◆Similar to the PingYing Input & English Input, you can enter “Production Date” 2006/01/30 &  “Expiration  Date” 2007/01/30”.  Then press![](/assets/Image_026.png)	to  shift  to “Picture”
+mode.
 
+◆Entering the file No. of picture at ![](/assets/Image_048.jpg) ,   then pressing![](/assets/Image_047.jpg)	. For how  to download and save pictures, Please refer to the Chapter of SOFTWARE.
+
+![](/assets/Image_049.jpg)
+
+★ If you have questions for the above contents, please refer to the Help manu. The route as followed,
+
+Under the Main Menu window, press “E” . Then press![](/assets/Image_023.jpg)	,  and  you  will see the corresponding help window. Please refer to the following picture.
+![](/assets/Image_061.jpg)
+
+## 4.4Set the printing parameters.
 
