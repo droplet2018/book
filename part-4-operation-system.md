@@ -66,4 +66,17 @@ Under the Main Menu window, press “E” . Then press![](/assets/Image_023.jpg)
 ![](/assets/Image_061.jpg)
 
 ## 4.4Set the printing parameters.
+Under the Main manu,  press “J”	to enter the Set Up. You will see window   same as following.
+![](/assets/Image_062.jpg)
 
+a.“Delay” is for the printing position on printed object. You can set the “Delay” by pressing related buttons on the keyboard. For example, you can add 10 each  time
+by  pressing ![](/assets/Image_063.jpg)  ,  And  you  add  1  by  pressing  ![](/assets/Image_064.jpg) .  you  can  reduce  10      by
+pressing ![](/assets/Image_065.jpg) . And reduce 1 by pressing ![](/assets/Image_066.jpg) .  Or  you  can  also  set  the  “Delay”  by directly pressing the Arrow key![](/assets/Image_072.jpg) ,
+Note: Right/Left Arrow for select the ‘Delay’, ‘Width’, ’Space’. Up/Down Arrows for adjusting the parameters of ‘Delay’, ‘Width’, ’Space’
+
+
+b.“Width” is the length of printing message. You can set the width by selecting the related buttons on the keyboard. For example, you can add 10 by pressing![](/assets/Image_068.jpg)  .    And add 1 by pressing ![](/assets/Image_069.jpg) . While you can reduce 10 by ![](/assets/Image_070.jpg).       And       reduce 1 by pressing ![](/assets/Image_071.jpg). Or you can also modify the “Width” by directly pressing the
+Arrow key ![](/assets/Image_072.jpg) 
+c.“Space” is the distance between two printing messages when select Continuous printing function. You can set the Space” by selecting the related buttons on the
+keyboard. For example, you can add 10 by pressing ![](/assets/Image_073.jpg) . And add 1 by ![](/assets/Image_074.jpg)  pressing
+. While you can reduce 10 by pressing![](/assets/Image_075.jpg)  , and reduce 1 by pressing  ![](/assets/Image_076.jpg) Note: the max. Parameter of Space is 5000, every 1000 stand for 1 second when the parameter is <=4000. When the parameter is >4000, every 1 stand for 0.25s.
