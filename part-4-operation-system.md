@@ -24,7 +24,7 @@ P	Printing execution
 C	Clock Settings ( Date setting) A	About the machine**
 
 b.File No.：The No. of editing or saving file
-Enter the file No. at the  "**00**", If the file No. is less than 10, please enter 0 at the tens digit,
+Enter the file No. at the  ![](/assets/Image_048.jpg), If the file No. is less than 10, please enter 0 at the tens digit,
 and the cursor will move to the next digit automatically. For example, File No. is 6, then enter “06”. The range of file No is 00~99.
 
 Following are detailed explanation on the individual buttons.
