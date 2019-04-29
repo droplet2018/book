@@ -68,3 +68,9 @@ Entering the file No. of picture at ![](/assets/Image_048.jpg) ,   then pressing
 ★ If you have questions for the above contents, please refer to the Help manu. The route as followed,
 
 Under the Main Menu window, press “E” . Then press	![](/assets/Image_083.png),  and  you  will see the corresponding help window. Please refer to the following picture.
+
+![](/assets/Image_061.jpg)
+**
+4.4Set the printing parameters.
+Under the Main manu,  press “J”	to enter the Set Up. You will see window   same as following.**
+![](/assets/Image_062.jpg)
