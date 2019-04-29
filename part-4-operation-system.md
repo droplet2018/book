@@ -54,6 +54,6 @@ b.Inputting the English letters, numbers and pictures
 input the “：”, you need to press  ![](/assets/Image_028.jpg)  and meanwhile press![](/assets/Image_030.png) ,
 c.Input the pictures
 ◆Similar to the PingYing Input & English Input, you can enter “Production Date” 2006/01/30 &  “Expiration  Date” 2007/01/30”.  Then press	to ![](/assets/Image_019.jpg) shift  to “Picture”
-mode. 。
+mode.
 
 
