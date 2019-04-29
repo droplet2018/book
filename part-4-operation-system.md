@@ -74,7 +74,8 @@ Under the Main Menu window, press “E” . Then press	![](/assets/Image_083.png
 
 ## 4.4 Set the printing parameters.
 
-Under the Main manu,  press “J”	to enter the Set Up. You will see window   same as following.**
+Under the Main manu,  press “J”	to enter the Set Up. You will see window   same as following.
+
 ![](/assets/Image_062.jpg)
 
 a.“Delay” is for the printing position on printed object. You can set the “Delay” by pressing related buttons on the keyboard. For example, you can add 10 each  time
@@ -97,6 +98,7 @@ d.Once all the parameters settings are completed, please press  ![](/assets/Imag
 ★If you have questions for the above contents, please refer to the Help menu. The route as followed
 
 Under the Main menu, please pressing “J”.     Then press	![](/assets/Image_083.png), and you will   see the corresponding help window. Please refer to following picture
+
 ![](/assets/Image_080.jpg)
 
 ## 4.5 Print
@@ -111,6 +113,7 @@ b.When the machine is in the “Printing” status, you can press the up/down ar
 through  the  right/left  arrow  key ![](/assets/Image_067.jpg)    to modify the Width parameter. The modification will be effective immediately.
 
 c.Press	![](/assets/Image_095.jpg)for Pause.	Refer to following picture.
+
 ![](/assets/Image_096.jpg)
 
 e. Press  ![](/assets/Image_097.jpg)  to cancel “Pause” and return to “ Print” . Or press  ![](/assets/Image_083.jpg)  to quit printing.
@@ -119,4 +122,5 @@ e. Press  ![](/assets/Image_097.jpg)  to cancel “Pause” and return to “ Pr
 followed
 
 Under the Main Menu, press “P”.   Then press![](/assets/Image_083.png)	, and you will see  the corresponding help window. Pls refer to following pictures
+
 ![](/assets/Image_100.jpg)
