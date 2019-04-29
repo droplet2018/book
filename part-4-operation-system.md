@@ -62,3 +62,9 @@ mode.
 Entering the file No. of picture at ![](/assets/Image_048.jpg) ,   then pressing	![](/assets/Image_047.jpg).
 
 ![](/assets/Image_049.jpg)
+
+◆Once the message editting is completed and saved, please press  ![](/assets/Image_083.jpg)  to return to the Main Menu interface。
+
+★ If you have questions for the above contents, please refer to the Help manu. The route as followed,
+
+Under the Main Menu window, press “E” . Then press	![](/assets/Image_083.png),  and  you  will see the corresponding help window. Please refer to the following picture.
