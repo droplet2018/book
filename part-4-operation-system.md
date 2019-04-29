@@ -79,4 +79,5 @@ b.“Width” is the length of printing message. You can set the width by select
 Arrow key ![](/assets/Image_072.jpg) 
 c.“Space” is the distance between two printing messages when select Continuous printing function. You can set the Space” by selecting the related buttons on the
 keyboard. For example, you can add 10 by pressing ![](/assets/Image_073.jpg) . And add 1 by ![](/assets/Image_074.jpg)  pressing
-. While you can reduce 10 by pressing![](/assets/Image_075.jpg)  , and reduce 1 by pressing  ![](/assets/Image_076.jpg) Note: the max. Parameter of Space is 5000, every 1000 stand for 1 second when the parameter is <=4000. When the parameter is >4000, every 1 stand for 0.25s.
+. While you can reduce 10 by pressing![](/assets/Image_075.jpg)  , and reduce 1 by pressing  ![](/assets/Image_076.jpg)
+ **Note: the max. Parameter of Space is 5000, every 1000 stand for 1 second when the parameter is <=4000. When the parameter is >4000, every 1 stand for 0.25s.**
