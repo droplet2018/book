@@ -45,7 +45,7 @@ of cursor.
 
 ![](/assets/Image_038.jpg)
 
-ATTENTION：This machine can display maximum 10 Chinese characters on 1 page, if you cannot find the needed Chinese character on this page, you can press ![](/assets/Image_023.jpg) to turn to next
+ATTENTION：This machine can display maximum 10 Chinese characters on 1 page, if you cannot find the needed Chinese character on this page, you can press ![![](/assets/Image_023.jpg)](/assets/Image_039.jpg) to turn to next
 page, or press ![](/assets/Image_024.jpg)  to move to the previous page. Or you also can press   ![](/assets/Image_025.jpg)to turn to next or previous page.
 
 b.Inputting the English letters, numbers and pictures
