@@ -59,6 +59,6 @@ c.Input the pictures
 ◆Similar to the PingYing Input & English Input, you can enter “Production Date” 2006/01/30 &  “Expiration  Date” 2007/01/30”.  Then press	to ![](/assets/Image_019.jpg) shift  to “Picture”
 mode.
 
-Entering the file No. of picture at ![](/assets/Image_048.jpg) ,   then pressing	![](/assets/Image_047.jpg). For how  to download and save pictures, Please refer to the Chapter of SOFTWARE.
+Entering the file No. of picture at ![](/assets/Image_048.jpg) ,   then pressing	![](/assets/Image_047.jpg).
 
 ![](/assets/Image_049.jpg)
