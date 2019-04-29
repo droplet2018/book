@@ -105,6 +105,7 @@ Under the Main menu, please pressing “J”.     Then press	![](/assets/Image_0
 
 Under the Main Menu, please press “P” to enter the window of “ Print”.
 Pls refer to following picture
+
 ![](/assets/Image_092.jpg)
 
 a.We can view the related data on the window of “Printing”
