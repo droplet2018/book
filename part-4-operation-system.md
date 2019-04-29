@@ -45,8 +45,8 @@ of cursor.
 
 ![](/assets/Image_038.jpg)
 
-ATTENTION：This machine can display maximum 10 Chinese characters on 1 page, if you cannot find the needed Chinese character on this page, you can press	  to turn to next
-page, or press   to move to the previous page. Or you also can press   to turn to next or previous page.
+ATTENTION：This machine can display maximum 10 Chinese characters on 1 page, if you cannot find the needed Chinese character on this page, you can press![](/assets/Image_039.jpg)	  to turn to next
+page, or press ![](/assets/Image_040.jpg)  to move to the previous page. Or you also can press ![](/assets/Image_041.jpg)  to turn to next or previous page.
 
 b.Inputting the English letters, numbers and pictures
 ◆Similar to the above operation method,  For Example, enter the  “Production Date” press![](/assets/Image_026.png)  to shift to “ English” mode. Press  ![](/assets/Image_027.png)  to select the height of characters,  then input “Production Date”. Note:   Press ’Caps’ to shift Capital or Small letter
