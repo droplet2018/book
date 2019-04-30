@@ -24,7 +24,7 @@ P	Printing execution
 C	Clock Settings ( Date setting) A	About the machine**
 
 b.File No.：The No. of editing or saving file
-Enter the file No. at the  ![](/assets/Image_048.jpg), If the file No. is less than 10, please enter 0 at the tens digit,
+Enter the file No. at the  ![](/assets/Image_048.jpg)“00”, If the file No. is less than 10, please enter 0 at the tens digit,
 and the cursor will move to the next digit automatically. For example, File No. is 6, then enter “06”. The range of file No is 00~99.
 
 Following are detailed explanation on the individual buttons.
@@ -36,8 +36,7 @@ Under the Main Manu, please enter the File No., then press “E” button to sta
 
 a.Inputting the Chinese characters
 
-◆Entering the Editing&inputting menu, refer to following picture, please press ![](/assets/Image_026.png)       (Chinese/English/Picture/Variables) to shift to the Chinese. Press ![](/assets/Image_027.png) button to set up height of character. X is the horizontal location of cursor, Y is the vertical location
-of cursor.
+![](/assets/TIM截图20190430162142.png)
 
 ◆For example, when your press SHENG，the Chinese characters of SHENG appear on the screen
 
@@ -45,29 +44,19 @@ of cursor.
 
 ![](/assets/Image_038.jpg)
 
-ATTENTION：This machine can display maximum 10 Chinese characters on 1 page, if you cannot find the needed Chinese character on this page, you can press ![![](/assets/Image_023.jpg)](/assets/Image_039.jpg) to turn to next
-page, or press ![](/assets/Image_024.jpg)  to move to the previous page. Or you also can press   ![](/assets/Image_025.jpg)to turn to next or previous page.
+![](/assets/TIM截图20190430152001.png)
 
-b.Inputting the English letters, numbers and pictures
+![](/assets/TIM截图2019030162448.png)
 
-◆Similar to the above operation method,  For Example, enter the  “Production Date” press ![](/assets/Image_019.jpg) to shift to “ English” mode. Press ![](/assets/Image_027.png)   to select the height of characters,  then input “Production Date”. Note:   Press ’Caps’ to shift Capital or Small letter
-
-◆The keyboard of the machine is same as the keyboard of computers. If you want  to
-input the “：”, you need to press  ![](/assets/Image_028.jpg)  and meanwhile press![](/assets/Image_030.png) ,
-c.Input the pictures
-
-◆Similar to the PingYing Input & English Input, you can enter “Production Date” 2006/01/30 &  “Expiration  Date” 2007/01/30”.  Then press	to ![](/assets/Image_019.jpg) shift  to “Picture”
-mode.
-
-Entering the file No. of picture at ![](/assets/Image_048.jpg) ,   then pressing	![](/assets/Image_047.jpg).
+Entering the file No. of picture at "00" ,   then pressing "Enter".
 
 ![](/assets/Image_049.jpg)
 
-◆Once the message editting is completed and saved, please press  ![](/assets/Image_083.jpg)  to return to the Main Menu interface。
+◆Once the message editting is completed and saved, please press  "ESC"  to return to the Main Menu interface。
 
 ★ If you have questions for the above contents, please refer to the Help manu. The route as followed,
 
-Under the Main Menu window, press “E” . Then press	![](/assets/Image_083.png),  and  you  will see the corresponding help window. Please refer to the following picture.
+Under the Main Menu window, press “E” . Then press	"HELP",  and  you  will see the corresponding help window. Please refer to the following picture.
 
 ![](/assets/Image_061.jpg)
 
@@ -78,28 +67,20 @@ Under the Main manu,  press “J”	to enter the Set Up. You will see window   s
 
 ![](/assets/Image_062.jpg)
 
-a.“Delay” is for the printing position on printed object. You can set the “Delay” by pressing related buttons on the keyboard. For example, you can add 10 each  time
-by  pressing  ![](/assets/Image_063.jpg) ,  And  you  add  1  by  pressing  ![](/assets/Image_064.jpg) .  you  can  reduce  10      by
-pressing![](/assets/Image_065.jpg)  . And reduce 1 by pressing ![](/assets/Image_066.jpg) .  Or  you  can  also  set  the  “Delay”  by directly pressing the Arrow key![](/assets/Image_072.jpg) ,
-**Note: Right/Left Arrow for select the ‘Delay’, ‘Width’, ’Space’. Up/Down Arrows for adjusting the parameters of ‘Delay’, ‘Width’, ’Space’**
+![](/assets/TIM截图20190430162839.png)
+
+![](/assets/TIM截图20190430162859.png)
 
 
-b.“Width” is the length of printing message. You can set the width by selecting the related buttons on the keyboard. For example, you can add 10 by pressing![](/assets/Image_068.jpg)  .    And add 1 by pressing ![](/assets/Image_069.jpg) . While you can reduce 10 by ![](/assets/Image_070.jpg).       And       reduce 1 by pressing ![](/assets/Image_071.jpg). Or you can also modify the “Width” by directly pressing the
-Arrow key ![](/assets/Image_072.jpg) 
-
-c.“Space” is the distance between two printing messages when select Continuous printing function. You can set the Space” by selecting the related buttons on the
-keyboard. For example, you can add 10 by pressing ![](/assets/Image_073.jpg) . And add 1 by   pressing
-![](/assets/Image_074.jpg). While you can reduce 10 by pressing![](/assets/Image_075.jpg)  , and reduce 1 by pressing![](/assets/Image_076.jpg)   
-**Note: the max. Parameter of Space is 5000, every 1000 stand for 1 second when the parameter is <=4000. When the parameter is >4000, every 1 stand for 0.25s.**
-
-
-d.Once all the parameters settings are completed, please press  ![](/assets/Image_047.jpg)  to save and exit. Or press ![](/assets/Image_083.jpg)   to quit saving and exit
+d.Once all the parameters settings are completed, please press  "Enter"  to save and exit. Or press "ESC"   to quit saving and exit
 
 ★If you have questions for the above contents, please refer to the Help menu. The route as followed
 
-Under the Main menu, please pressing “J”.     Then press	![](/assets/Image_083.png), and you will   see the corresponding help window. Please refer to following picture
+Under the Main menu, please pressing “J”.     Then press	"Help", and you will   see the corresponding help window. Please refer to following picture
 
 ![](/assets/Image_080.jpg)
+
+
 
 ## 4.5 Print
 
