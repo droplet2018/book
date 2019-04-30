@@ -34,4 +34,5 @@ e.You can press the left or right direction key ![](/assets/Image_067.jpg)  to m
 The Width Setting will be effective immediately after the modification
 
 f.After the sensor can detect the edge of product to be printed, it will start time counting till it reaches the delay time, then it will start printing.
-Attention: Message can be printed from left to right, or from right to left according to the direction of products.
+
+**Attention: Message can be printed from left to right, or from right to left according to the direction of products.**
