@@ -8,7 +8,7 @@ Regards
 
 Customer Team
 
-![](/assets/微信图片.png)
+![](/assets/TIM截图20190430155001.png)
 
 
 
