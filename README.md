@@ -8,7 +8,8 @@ Regards
 
 Customer Team
 
-Droplet
+![](/assets/微信图片_20190430144737.png)
+
 
 ![](/assets/7.jpg)
 
