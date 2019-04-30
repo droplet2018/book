@@ -11,4 +11,5 @@
 * [D1操作说明](chapter1.md)
   * [第一章 使用须知](chapter1/qian-yan.md)
   * [第二章    硬件安装](di-er-zhang-ying-jian-an-zhuang.md)
+  * [第三章 主机键盘介绍](di-san-zhang-zhu-ji-jian-pan-jie-shao.md)
 
