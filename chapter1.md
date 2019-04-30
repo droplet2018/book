@@ -6,7 +6,7 @@
 
 致礼！
 
-![](/assets/7.jpg)
+![](/assets/微信.png)
 
 
 
