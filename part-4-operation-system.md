@@ -91,18 +91,17 @@ Pls refer to following picture
 
 a.We can view the related data on the window of “Printing”
 
-b.When the machine is in the “Printing” status, you can press the up/down arrow Key ![](/assets/Image_067.jpg)  to modify the delay parameters, press right/left arrow the data after the   cursor
-through  the  right/left  arrow  key ![](/assets/Image_067.jpg)    to modify the Width parameter. The modification will be effective immediately.
+![](/assets/TIM截图30190430163452.png)
 
-c.Press	![](/assets/Image_095.jpg)for Pause.	Refer to following picture.
+c.Press	"OFF"for Pause.	Refer to following picture.
 
 ![](/assets/Image_096.jpg)
 
-e. Press  ![](/assets/Image_097.jpg)  to cancel “Pause” and return to “ Print” . Or press  ![](/assets/Image_083.jpg)  to quit printing.
+e. Press  "ON" to cancel “Pause” and return to “ Print” . Or press  "ESC"
 
 ★If you have questions for the above contents, please refer to the Help manu. The route	as
 followed
 
-Under the Main Menu, press “P”.   Then press![](/assets/Image_083.png)	, and you will see  the corresponding help window. Pls refer to following pictures
+Under the Main Menu, press “P”.   Then press"HELP"	, and you will see  the corresponding help window. Pls refer to following pictures
 
 ![](/assets/Image_100.jpg)
