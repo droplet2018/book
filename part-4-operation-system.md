@@ -16,12 +16,15 @@ a.Please check whether the power is connected properly, Then turn power on. Afte
 
 ![](/assets/Image_033.jpg)
 
-**E	Edit, delete, add, modify the message
+
+E	Edit, delete, add, modify the message
 J	Set up time, ink drops, printing mode etc.
 V	Set up variable of counter, real-time, expiration date ect 
 D	Advance setting, system initialization
 P	Printing execution
-C	Clock Settings ( Date setting) A	About the machine**
+C	Clock Settings ( Date setting) 
+A	About the machine
+
 
 b.File No.：The No. of editing or saving file
 Enter the file No. at the  ![](/assets/Image_048.jpg)“00”, If the file No. is less than 10, please enter 0 at the tens digit,
