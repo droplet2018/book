@@ -10,4 +10,5 @@
   * [PART  7  FAQ](part-7-faq.md)
 * [D1操作说明](chapter1.md)
   * [第一章 使用须知](chapter1/qian-yan.md)
+  * [第二章    硬件安装](di-er-zhang-ying-jian-an-zhuang.md)
 

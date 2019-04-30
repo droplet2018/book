@@ -65,6 +65,5 @@ i.  The ink supply is ink cartridge. It's easy and simple to replace ink cartrid
 
  v.  Please ensure the printinghead isn't damaged by any possible accident during transportation, because it's very delicate and easily damaged.
 
- w.  If you remove the ink cartridge, please refer to instruction of **Part 8 Maintenance**
 
  **to clean the inking system.**
