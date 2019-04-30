@@ -1,4 +1,4 @@
-## 6.1Clean the (nozzles)
+## 5.1Clean the (nozzles)
 
 A.Before printing, please clean the nozzles with cleaning solvent. Spray the cleaning sovent to the nozzles 3-5 times until the dried ink on the nozzles is completely cleaned out. Please pay attention do not touch or clear the nozzles with any materials except cleaning solvent., no matter how soft the material is, or it will cause permanent damaging of printinghead.
 
@@ -14,7 +14,7 @@ D.Start printing and view the printed result. The printed out character should b
 
 E.Start to edit the message and print
 
-## 6.2Printing Position
+## 5.2Printing Position
 
 a.Most customer would like to printing message on a designated location. For example, inside a frame or a blank. Therefore, it’s necessary to position the printer on a appropriate location. And you also need to set the conveyor belt and the printing parameters according to the direction of products.
 
