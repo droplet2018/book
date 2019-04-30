@@ -15,4 +15,5 @@
 * [第四章 主机操作系统](chapter1/di-si-zhang-zhu-ji-cao-zuo-xi-tong.md)
 * [第五章  喷头的清洗和信息喷印的位置](di-wu-zhang-pen-tou-de-qing-xi-he-xin-xi-pen-yin-de-wei-zhi.md)
 * [第六章 日常维护和保养](di-liu-zhang-ri-chang-wei-hu-he-bao-yang.md)
+* [第七章 故障问题解答](di-qi-zhang-gu-zhang-wen-ti-jie-da.md)
 
