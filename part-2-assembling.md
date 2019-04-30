@@ -64,6 +64,3 @@ i.  The ink supply is ink cartridge. It's easy and simple to replace ink cartrid
  u.  Pls be sure the protecting film don't touch the nozzles, when you put the protecting film on the printinghead, so that assuring the printinghead will not be polluted or damaged
 
  v.  Please ensure the printinghead isn't damaged by any possible accident during transportation, because it's very delicate and easily damaged.
-
-
- **to clean the inking system.**
