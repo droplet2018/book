@@ -7,15 +7,8 @@ Thank you for choosing our Droplet. We believe that this inkjet machine has exce
 Regards
 
 Customer Team
-![](/assets/微信图片_20190430144737.png)
 
-
-
-
-
-
-![](/assets/7.jpg)
-
+![](/assets/微信图片.png)
 
 
 
