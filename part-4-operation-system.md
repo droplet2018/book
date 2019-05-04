@@ -18,11 +18,17 @@ a.Please check whether the power is connected properly, Then turn power on. Afte
 
 
 E	Edit, delete, add, modify the message
+
 J	Set up time, ink drops, printing mode etc.
+
 V	Set up variable of counter, real-time, expiration date ect 
+
 D	Advance setting, system initialization
+
 P	Printing execution
+
 C	Clock Settings ( Date setting) 
+
 A	About the machine
 
 
