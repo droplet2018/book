@@ -7,7 +7,6 @@ b.After the power is turned off, the ink around the nozzles will dry very soon. 
 
 C. The ink drying time depends on the environment and the ink drops needed for the printing. For example, the higher temperature, the ink dries sooner. And the bolder character, the longer it will take to dry. You can choose to print light color characters to shorten the drying time.
 
-![](/assets/Image_004.png)
                                                                    
 
 6.1.Before starting to print every morning:
